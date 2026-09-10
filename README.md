@@ -56,7 +56,7 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
 **### Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" />
 </p>
 
 **### APIs & Databases**
@@ -69,7 +69,12 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash" alt="Git, GitHub, Docker, Linux and Bash" />
 </p>
 
+**### Cybersecurity**
+
+`Kali Linux` · `Bash`
+
 <!-- END EDIT -->
+
 
 <br/>
 
