@@ -39,6 +39,14 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
 
 <!-- EDIT: STACK -->
 
+**### AI & Machine Learning**
+
+`Machine Learning` · `Deep Learning` · `Artificial Intelligence`
+
+**### AI & Data Libraries**
+
+`NumPy` · `Pandas`
+
 **### Backend Development**
 
 <p>
@@ -53,12 +61,12 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
 
 **### APIs & Databases**
 
-`Django REST Framework` · `REST APIs` · `SQL`
+`Django REST Framework` · `REST APIs` · `SQL` · `MySQL`
 
 **### Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub and Docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash" alt="Git, GitHub, Docker, Linux and Bash" />
 </p>
 
 <!-- END EDIT -->
