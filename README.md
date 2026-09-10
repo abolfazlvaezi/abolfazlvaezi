@@ -6,7 +6,7 @@
 
 <div align="center">
 
-** Web Developer · AI Developer**
+**Web Developer · AI Developer**
 
 Building production-ready web applications, REST APIs, and practical AI-powered software with **Python**, **Django**, and modern web technologies.
 
@@ -19,7 +19,7 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
   <img src="./assets/section-divider.svg" width="50%" alt="" />
 </div>
 
-** Featured Projects**
+**Featured Projects**
 
 <div align="center">
 
@@ -35,41 +35,41 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
   <img src="./assets/section-divider.svg" width="50%" alt="" />
 </div>
 
-** Tech Stack**
+**Tech Stack**
 
 <!-- EDIT: STACK -->
 
-** AI & Machine Learning**
+**AI & Machine Learning**
 
 `Machine Learning` · `Deep Learning` · `Artificial Intelligence`
 
-** AI & Data Libraries**
+**AI & Data Libraries**
 
 `NumPy` · `Pandas`
 
-** Backend Development**
+**Backend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django" alt="Python and Django" />
 </p>
 
-** Web Development**
+**Web Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" />
 </p>
 
-** APIs & Databases**
+**APIs & Databases**
 
 `Django REST Framework` · `REST APIs` · `SQL` · `MySQL`
 
-** Development Tools**
+**Development Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash" alt="Git, GitHub, Docker, Linux and Bash" />
 </p>
 
-** Cybersecurity**
+**Cybersecurity**
 
 `Kali Linux` · `Bash`
 
@@ -78,7 +78,7 @@ Building production-ready web applications, REST APIs, and practical AI-powered 
 
 <br/>
 
-**  AI & Technology Interests**
+**AI & Technology Interests**
 
 <!-- EDIT: AI INTERESTS -->
 
@@ -121,7 +121,7 @@ Scalable Systems
 
 <br/>
 
-** Background**
+**Background**
 
 <!-- EDIT: BACKGROUND -->
 
@@ -143,7 +143,7 @@ Interested in:
   <img src="./assets/section-divider.svg" width="50%" alt="" />
 </div>
 
-** GitHub Activity**
+**GitHub Activity**
 
 <!-- EDIT: GITHUB ACTIVITY -->
 
@@ -155,7 +155,7 @@ Interested in:
 
 <br/>
 
-** Connect**
+**Connect**
 
 <!-- EDIT: CONNECT -->
 
