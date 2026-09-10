@@ -161,7 +161,7 @@ Interested in:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/parsa-shafizade/">
+<a href="https://www.linkedin.com/in/abolfazl-vaezi-a09806434/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
