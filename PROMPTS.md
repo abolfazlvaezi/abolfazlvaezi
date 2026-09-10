@@ -18,12 +18,12 @@ Help me create a professional GitHub Profile README introduction.
 
 My information:
 
-- Name:
-- Current role:
-- Main technologies:
-- Projects:
-- Interests:
-- Career goal:
+- Name: Abolfazl Vaezi
+- Current role: Web Developer / AI Developer
+- Main technologies: Python, Django, Django REST Framework, HTML, CSS, SQL
+- Projects: lifeon.tech / mamanema.ir / elajavan.ir / crm netpardaz
+- Interests: Developing / Coding / AI 
+- Career goal: AI / Web Developing
 
 Create:
 
